@@ -13,9 +13,7 @@ export default function Home() {
       <main>
         <Header title="Anime batch sub indo" />
         <p className="description">
-         <Link>
-          <a href="https://adikanime.com">Adikanime</a>
-        </Link> merupakan website download anime batch sub indo terupdate dan terlengkap.</code>
+          <a href="https://adikanime.com">Adikanime</a> merupakan website download anime batch sub indo terupdate dan terlengkap.
         </p>
       </main>
 
