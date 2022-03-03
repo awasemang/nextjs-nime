@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Anime batch sub indo" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <a href="https://adikanime.com">Adikanime</a> merupakan website download anime batch sub indo terupdate dan terlengkap.</code>
         </p>
       </main>
 
